@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/build -I/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp -isystem /Users/ye/.local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++11 -o CMakeFiles/test_main.dir/test_main.cc.o -c /Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/test_main.cc",
+  "file": "/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/test_main.cc"
+},
+{
+  "directory": "/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/build -I/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp -isystem /Users/ye/.local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++11 -o CMakeFiles/test_main.dir/gateway.grpc.pb.cc.o -c /Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/gateway.grpc.pb.cc",
+  "file": "/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/gateway.grpc.pb.cc"
+},
+{
+  "directory": "/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/build -I/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp -isystem /Users/ye/.local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++11 -o CMakeFiles/test_main.dir/gateway.pb.cc.o -c /Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/gateway.pb.cc",
+  "file": "/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/gateway.pb.cc"
+},
+{
+  "directory": "/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/build -I/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp -isystem /Users/ye/.local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++11 -o CMakeFiles/test_main.dir/errorcode.cc.o -c /Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/errorcode.cc",
+  "file": "/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/errorcode.cc"
+},
+{
+  "directory": "/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/build -I/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp -isystem /Users/ye/.local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++11 -o CMakeFiles/test_main.dir/zeebe_client.cc.o -c /Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/zeebe_client.cc",
+  "file": "/Users/ye/Library/CloudStorage/OneDrive-东南大学/graduate/graduate-2/毕业设计/zeebe-client/zeebe-cpp/zeebe_client.cc"
+}
+]
